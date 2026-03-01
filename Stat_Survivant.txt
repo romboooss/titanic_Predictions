@@ -1,0 +1,18 @@
+Moyenne survivant Femme
+classe 3 = 50%
+classe 2 = 92%
+classe 1 = 97%
+Moyenne survivant homme
+classe 3 = 14%
+classe 2 = 16%
+classe 1 = 37%
+Moyenne survivant homme de 0-19 / 20-40 / 41-60/ >60
+classe 3 = 19.3%  / 13% / 6.7% / 0%   
+classe 2 =  50% / 7.5% / 5.3% / 33%
+classe 1 =  57.1% / 45% / 32.7% /7%
+Moyenne survivant femme de 0-19/ 20-40 / 41-60/ >60
+classe 3 = 51% / 55% / 0% / 50%
+classe 2 = 100% / 91% / 85.7% /nan(0)
+classe 1 = 93% / 98% / 96.7% / 100%
+obtenue a partie du TestJupyter.ipynb
+
